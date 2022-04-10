@@ -1,21 +1,37 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=windows-1252">
-    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+
       title="Wrap Long Lines">
   </head>
   <body>
-    <pre>/*-----------------------------------------------------------------------------------
+    <pre>&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="content-type" content="text/html; charset=windows-1252"&gt;
+    &lt;link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
 
-    Template Name: Unfold - Personal Resume &amp; CV Template
-    Template URI: site.com
-    Description: Unfold Personal Resume &amp; CV Template
-    Author: Uideck
-    Author URI: https://uideck.com/
-    Support: https://uideck.com/support/
-    Version: 1.0
+      title="Wrap Long Lines"&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;pre&gt;&amp;lt;html&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;meta http-equiv="content-type" content="text/html; charset=windows-1252"&amp;gt;
+    &amp;lt;link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
 
------------------------------------------------------------------------------------
+      title="Wrap Long Lines"&amp;gt;
+  &amp;lt;/head&amp;gt;
+  &amp;lt;body&amp;gt;
+    &amp;lt;pre&amp;gt;&amp;amp;lt;html&amp;amp;gt;
+  &amp;amp;lt;head&amp;amp;gt;
+    &amp;amp;lt;meta http-equiv="content-type" content="text/html; charset=windows-1252"&amp;amp;gt;
+    &amp;amp;lt;link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+
+      title="Wrap Long Lines"&amp;amp;gt;
+  &amp;amp;lt;/head&amp;amp;gt;
+  &amp;amp;lt;body&amp;amp;gt;
+    &amp;amp;lt;pre&amp;amp;gt;/*-----------------------------------------------------------------------------------
+
 
     CSS INDEX
     ===================
@@ -878,12 +894,12 @@ p {
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .services-area {
-    padding-top: 90px;
-    padding-bottom: 100px; } }
+    padding-top: 30px;
+    padding-bottom: 30px; } }
 @media (max-width: 767px) {
   .services-area {
-    padding-top: 70px;
-    padding-bottom: 80px; } }
+    padding-top: 20px;
+    padding-bottom: 20px; } }
 
 .single-service {
   background-color: #fff;
@@ -1341,12 +1357,12 @@ p.form-message.success, p.form-message.error {
   background-color: #152136; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer-widget {
-      padding-top: 100px;
-      padding-bottom: 100px; } }
+      padding-top: 30px;
+      padding-bottom: 30px; } }
   @media (max-width: 767px) {
     .footer-widget {
-      padding-top: 80px;
-      padding-bottom: 80px; } }
+      padding-top: 20px;
+      padding-bottom: 20px; } }
 
 .footer-content p {
   color: #fff;
@@ -1478,8 +1494,8 @@ p.form-message.success, p.form-message.error {
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .single-blog-page {
-    padding-top: 70px;
-    padding-bottom: 100px; } }
+    padding-top: 30px;
+    padding-bottom: 30px; } }
 @media (max-width: 767px) {
   .single-blog-page {
     padding-top: 30px;
@@ -1762,7 +1778,57 @@ p.form-message.success, p.form-message.error {
       line-height: 54px;
       cursor: pointer; }
 
+.flex-center {
+	align-items: center;
+}
+.accordion-button{
+	margin-bottom: 10px;
+}
+.accordion-body {
+	margin-top: 15px;
+	padding: 25px;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0 2px 25px -3px rgba(0, 0, 0, 0.1);
+	margin-bottom: 10px;
+}
+
+.circle-icon {
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #2b4eff;
+    border: 5px solid #b2bfff;
+	color: #fff;
+	margin-left: -20px;
+	margin-right: 10px;
+	transform: scale(1.2);
+}
+.accordion-item{
+	border: 0px!important;
+}
+.accordion-button:not(.collapsed){
+	border: 0px!important;
+	color: #0c63e4;
+    background-color: #ffffff;
+    box-shadow: inset 0 0px 0 rgb(0 0 0 / 13%);
+}
+
+&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
 /*# sourceMappingURL=style.css.map */
+&amp;amp;lt;/pre&amp;amp;gt;
+  &amp;amp;lt;/body&amp;amp;gt;
+&amp;amp;lt;/html&amp;amp;gt;
+&amp;lt;/pre&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/pre&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
 </pre>
   </body>
 </html>
+
